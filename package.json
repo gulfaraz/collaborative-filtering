@@ -1,0 +1,27 @@
+{
+  "name": "collaborative-filtering",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of Collaborative Filtering",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "collaborative",
+    "filtering",
+    "machine",
+    "learning",
+    "artificial",
+    "intelligence",
+    "gulfaraz",
+    "yasin"
+  ],
+  "author": "Gulfaraz Yasin",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "mathjs": "^3.12.2",
+    "ml-util": "^1.0.3"
+  }
+}
